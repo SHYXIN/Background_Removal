@@ -1,3 +1,3 @@
-# BackgroundRemoval
+# 背景去除器
 
-Upload an image and adjust the settings to remove the background for any image!
+上传图片并调整设置以删除任何图片的背景！
